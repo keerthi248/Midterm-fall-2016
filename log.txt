@@ -1,0 +1,29 @@
+commit 68372ea26b0183ce5e2c25a3a7c291195dae7d25
+Author: Evan You <yyx990803@gmail.com>
+Date:   Wed May 4 16:48:47 2016 -0400
+
+    update track-by usage
+
+commit 1c09f63631d8fab37127fab8dc667e4be17fd4c7
+Author: Evan You <yyx990803@gmail.com>
+Date:   Wed May 4 16:47:00 2016 -0400
+
+    fix value prop handling
+
+commit 49d5f2f393d416fd9f6b5abc74472435b66306e8
+Author: Takuya Tejima <tejitak@gmail.com>
+Date:   Thu May 5 00:36:16 2016 +0900
+
+    Suppress a warning 'Unknown custom element' with SSR <img> tag
+
+commit 9a6d80c1332530a30eca08fcb6cde285ff082447
+Author: Hawk <whktk@qq.com>
+Date:   Wed May 4 15:36:46 2016 +0800
+
+    comment spelling errors (#2800)
+
+commit 014ac351721cfbf55326b3091727f282daa085ac
+Author: Evan You <yyx990803@gmail.com>
+Date:   Fri Apr 29 20:12:01 2016 -0400
+
+    fix eslint again
